@@ -376,7 +376,7 @@ section .title::after{
 
 /* Projects section styling */
 .Projects .title::after{
-    content: "The Projects that made use of my 🧠 & ✋";
+    content: "💻 & 🧠 & ✋";
 }
 .Projects .carousel .card{
     background: #222;
